@@ -1,0 +1,39 @@
+D:\MEERA\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.Form1.resources
+D:\MEERA\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.Properties.Resources.resources
+D:\MEERA\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.csproj.GenerateResource.Cache
+D:\MEERA\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.Form8.resources
+D:\MEERA\StudentSystem\StudentSystem\bin\Debug\StudentSystem.exe.config
+D:\MEERA\StudentSystem\StudentSystem\bin\Debug\StudentSystem.exe
+D:\MEERA\StudentSystem\StudentSystem\bin\Debug\StudentSystem.pdb
+D:\MEERA\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.exe
+D:\MEERA\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.pdb
+D:\PROJECT\StudentSystem\StudentSystem\bin\Debug\StudentSystem.exe.config
+D:\PROJECT\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.exe
+D:\PROJECT\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.pdb
+D:\PROJECT\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.csprojResolveAssemblyReference.cache
+D:\PROJECT\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.Form1.resources
+D:\PROJECT\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.Form8.resources
+D:\PROJECT\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.Properties.Resources.resources
+D:\PROJECT\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.csproj.GenerateResource.Cache
+D:\PROJECT\StudentSystem\StudentSystem\bin\Debug\StudentSystem.exe
+D:\PROJECT\StudentSystem\StudentSystem\bin\Debug\StudentSystem.pdb
+C:\Users\Kamran Sharif\Desktop\StudentSystem\StudentSystem\bin\Debug\StudentSystem.exe.config
+C:\Users\Kamran Sharif\Desktop\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.exe
+C:\Users\Kamran Sharif\Desktop\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.pdb
+C:\Users\Kamran Sharif\Desktop\StudentSystem\StudentSystem\bin\Debug\StudentSystem.exe
+C:\Users\Kamran Sharif\Desktop\StudentSystem\StudentSystem\bin\Debug\StudentSystem.pdb
+C:\Users\Kamran Sharif\Desktop\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Kamran Sharif\Desktop\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.Form1.resources
+C:\Users\Kamran Sharif\Desktop\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.Form8.resources
+C:\Users\Kamran Sharif\Desktop\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.Properties.Resources.resources
+C:\Users\Kamran Sharif\Desktop\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.csproj.GenerateResource.Cache
+C:\Users\Kamran Sharif\Desktop\std\StudentSystem\StudentSystem\bin\Debug\StudentSystem.exe.config
+C:\Users\Kamran Sharif\Desktop\std\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.exe
+C:\Users\Kamran Sharif\Desktop\std\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.pdb
+C:\Users\Kamran Sharif\Desktop\std\StudentSystem\StudentSystem\bin\Debug\StudentSystem.exe
+C:\Users\Kamran Sharif\Desktop\std\StudentSystem\StudentSystem\bin\Debug\StudentSystem.pdb
+C:\Users\Kamran Sharif\Desktop\std\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.csprojResolveAssemblyReference.cache
+C:\Users\Kamran Sharif\Desktop\std\StudentSystem\StudentSystem\obj\x86\Debug\StudentSystem.csproj.GenerateResource.Cache
+C:\Users\Kamran Sharif\Desktop\std\StudentSystem\StudentSystem\obj\x86\Debug\SMSystem.Form1.resources
+C:\Users\Kamran Sharif\Desktop\std\StudentSystem\StudentSystem\obj\x86\Debug\SMSystem.Form8.resources
+C:\Users\Kamran Sharif\Desktop\std\StudentSystem\StudentSystem\obj\x86\Debug\SMSystem.Properties.Resources.resources
